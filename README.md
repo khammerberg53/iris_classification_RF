@@ -3,7 +3,7 @@
 
 **Overview:** 
 
-In this lab, you will learn how to classify the famous iris data set with the random forest algorithm. 
+In this lab you will learn how to classify the famous iris data set with the random forest algorithm. 
 
 Fisher’s iris data set is one of most famous data sets used in pattern recognition literature. 
 It contains three classes (or ‘target labels’) with 50 instances of each class. 
