@@ -1,7 +1,7 @@
-**Iris Random Forest Classification**
+***Iris Random Forest Classification***
 
 
-Overview: 
+**Overview:** 
 
 In this lab, you will learn how to classify the famous iris data set with the random forest algorithm. 
 
@@ -15,7 +15,7 @@ First, you will do some preliminary exploration of the data set, then the data w
 
  
 
-Objectives: 
+**Objectives: 
 
 To become familiarized with data structures and data transformations used in a simple classification problem 
 
@@ -27,7 +27,7 @@ To become more comfortable creating data visualizations
 
  
 
-What you’ll need: 
+**What you’ll need: 
 
 Jupyter Notebooks 
 Python 3 
