@@ -17,13 +17,13 @@ First, you will do some preliminary exploration of the data set, then the data w
 
 **Objectives:** 
 
-To become familiarized with data structures and data transformations used in a simple classification problem 
+(1) To become familiarized with data structures and data transformations used in a simple classification problem 
 
-List specific data structures learned in this lab 
+(2) List specific data structures learned in this lab 
 
-To gain experience classifying data with the random forest algorithm 
+(3) To gain experience classifying data with the random forest algorithm 
 
-To become more comfortable creating data visualizations 
+(4) To become more comfortable creating data visualizations 
 
  
 
