@@ -12,7 +12,7 @@ Each class represents one of the species of the iris plant (Iris Setosa, Iris Ve
 Each instance is defined by 4 attributes: sepal length in cm, sepal width in cm, petal length in cm, and petal width in cm.  
 
 
-First, you will do some preliminary exploration of the data set, then the data will be preprocessed (i.e., prepared for analysis), the model will be trained, and, finally, we will use our model to make predictions about the species of unknown iris plants.  
+First, you will do some preliminary exploration of the data set, then the data will be preprocessed (i.e., prepared for analysis), the model will be trained, and finally, we will use our model to make predictions about the species of unknown iris plants.  
 
  
 
