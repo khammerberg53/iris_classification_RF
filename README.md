@@ -30,6 +30,6 @@ First, you will do some preliminary exploration of the data set, then the data w
 
 **What you’ll need:**
 
-- Jupyter Notebooks 
+- Jupyter Notebook
 - Python 3 
 - Basic programming knowledge 
